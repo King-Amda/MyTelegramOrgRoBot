@@ -81,3 +81,7 @@ check out the [helper_funcs](https://github.com/Sadew451/MyTelegramOrgRoBot/tree
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
   - [me](https://tx.me/SpEcHlDe)
+
+## Developers
+
+- [sadew jayasekara] (https://github.com/sadew451.jpg)
