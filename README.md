@@ -85,3 +85,5 @@ check out the [helper_funcs](https://github.com/Sadew451/MyTelegramOrgRoBot/tree
 ## Developers
 
 [![sadew jayasekara](https://github.com/sadew451.png?size=100)](https://github.com/sadew451)
+
+[![King Amda](https://github.com/King-Amda.png?size=100)](https://github.com/King-Amda)
